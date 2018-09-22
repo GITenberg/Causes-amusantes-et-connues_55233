@@ -1,11 +1,16 @@
 _repo: Causes-amusantes-et-connues_55233
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55233-h/images/cover.jpg
 creator:
   author:
     agent_name: Estienne, Robert
     gutenberg_agent_id: '48238'
     url: http://www.gutenberg.org/2009/agents/48238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55233#Causes-amusantes-et-connues
 gutenberg_bookshelf:
 - FR Humour
 - FR Droit et Justice
